@@ -608,10 +608,10 @@ progress {
     height: auto
 }
 
-.img-fluids {
+/* .img-fluids {
     max-width: 100%;
     height: 500px;
-}
+} */
 
 .img-thumbnail {
     padding: .25rem;
